@@ -2,7 +2,7 @@
 
 
 
-include-once("sheril.html");
+include_once("sheril.html");
 
 
 ?>
