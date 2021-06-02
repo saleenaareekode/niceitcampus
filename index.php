@@ -1,8 +1,7 @@
 <?php
 
 
-
-include_once("sheril.html");
+echo "hello";
 
 
 ?>
